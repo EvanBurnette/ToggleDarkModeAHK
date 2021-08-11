@@ -9,14 +9,10 @@ Automatically toggle between light and dark modes on Windows 10
 3. Unzip the files
 
 ## Usage
-1. Double click the toggleDarkMode.AHK script to run the script in the background
+1. Double click the ToggleDarkMode.ahk script to run the script in the background
 2. Use Control + WindowsKey + T to toggle dark mode on/off ( no +'s required )
 
-This assumes that you are originally in dark mode.
-If you are in light mode you can enter the shortcut twice to switch to dark mode.
+Can't remember the shortcut? No problem. Just double click the ToggleDarkMode_DoubleClick.ahk script to toggle without keyboard shortcuts.
 
-## Additional Scripts/Super Easy Mode
-Can't remember the shortcut? No problem. Just double click the LightMode.ahk or DarkMode.ahk files as needed!
-
-## Hacker Installation
-To add ToggleDarkMode.AHK to startup [follow this guide from the AutoHotKey FAQ](https://www.autohotkey.com/docs/FAQ.htm#Startup)
+## 1337 Hacker Installation
+To add ToggleDarkMode.ahk to startup [follow this guide from the AutoHotKey FAQ](https://www.autohotkey.com/docs/FAQ.htm#Startup)
