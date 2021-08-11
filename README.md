@@ -15,7 +15,7 @@ Automatically toggle between light and dark modes on Windows 10
 This assumes that you are originally in dark mode.
 If you are in light mode you can enter the shortcut twice to switch to dark mode.
 
-## Additional scripts
+## Additional Scripts/Super Easy Mode
 Can't remember the shortcut? No problem. Just double click the lightMode.ahk or darkMode.ahk files as needed!
 
 ## Hacker Installation
