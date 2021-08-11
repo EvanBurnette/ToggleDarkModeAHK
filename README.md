@@ -19,4 +19,4 @@ If you are in light mode you can enter the shortcut twice to switch to dark mode
 Can't remember the shortcut? No problem. Just double click the LightMode.ahk or DarkMode.ahk files as needed!
 
 ## Hacker Installation
-To add ToggleDarkMode.AHK to startup [follow this guide from the AHK FAQ](https://www.autohotkey.com/docs/FAQ.htm#Startup)
+To add ToggleDarkMode.AHK to startup [follow this guide from the AutoHotKey FAQ](https://www.autohotkey.com/docs/FAQ.htm#Startup)
