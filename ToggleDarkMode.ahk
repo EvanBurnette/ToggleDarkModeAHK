@@ -20,6 +20,7 @@ else
 		Send,{Text}turn on light mode systemwide
 	else
 		Send,{Text}turn on dark mode systemwide
+		Sleep,1000 ;windows is slow so we have to go slow here
 	Sleep,1500
 	Send,{Down}
 	Sleep,200
